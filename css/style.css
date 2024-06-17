@@ -44,7 +44,6 @@ body {
   width: 700px;
   height: 400px;
   margin-top: 50px;
-  margin-left: 50px;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
   -webkit-perspective: 5000px;
